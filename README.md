@@ -1,4 +1,4 @@
-# calculater
+# News
 
 A new Flutter project.
 
